@@ -52,7 +52,7 @@ class Turtlebot3ObstacleDetection(Node):
         self.get_logger().info("Turtlebot3 obstacle detection node has been initialised.")
 
     """*******************************************************************************
-    ** Callback functions and relevant functions
+    ** Callback functions and Other relevant functions
     *******************************************************************************"""
     def scan_callback(self, msg):
         self.scan_ranges = msg.ranges
