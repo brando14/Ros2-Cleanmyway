@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'demo = demo_py.demo:main',
+            'demo = demo_py.demo:main', 
+            'demo1 = demo_py.demo1:main',
 
         ],
     },
