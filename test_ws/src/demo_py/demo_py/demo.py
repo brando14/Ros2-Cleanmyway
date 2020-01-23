@@ -23,7 +23,7 @@ class Turtlebot3ObstacleDetection(Node):
         self.init_scan_state = False  # To get the initial scan data at the beginning
 
         """************************************************************
-        ** Initialise ROS publishers and subscribers
+        ** Inicialisar ROS publishers y subscribers
         ************************************************************"""
         qos = QoSProfile(depth=10)
 
@@ -43,7 +43,7 @@ class Turtlebot3ObstacleDetection(Node):
             qos)
 
         """************************************************************
-        ** Initialise timers
+        ** Iniciar timers
         ************************************************************"""
         self.update_timer = self.create_timer(
             0.010,  # unit: s
