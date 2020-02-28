@@ -1,0 +1,25 @@
+[39.157s] running egg_info
+[39.204s] writing /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/PKG-INFO
+[39.206s] writing dependency_links to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/dependency_links.txt
+[39.207s] writing entry points to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/entry_points.txt
+[39.208s] writing requirements to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/requires.txt
+[39.209s] writing top-level names to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/top_level.txt
+[39.680s] reading manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[39.693s] writing manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[39.759s] running build
+[39.798s] running build_py
+[39.798s] copying demo_py/demo3.py -> /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build/lib/demo_py
+[39.833s] running install
+[39.867s] running install_lib
+[39.887s] copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build/lib/demo_py/demo3.py -> /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py
+[39.934s] byte-compiling /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py/demo3.py to demo3.cpython-36.pyc
+[39.946s] running install_data
+[39.951s] running install_egg_info
+[40.026s] removing '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info' (and everything under it)
+[40.030s] Copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info
+[40.068s] running install_scripts
+[40.363s] Installing demo script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[40.366s] Installing demo1 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[40.367s] Installing demo2 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[40.367s] Installing demo3 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[40.368s] writing list of installed files to '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log'

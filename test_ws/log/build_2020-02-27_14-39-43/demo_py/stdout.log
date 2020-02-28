@@ -1,0 +1,21 @@
+[9.648s] running egg_info
+[9.653s] writing /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/PKG-INFO
+[9.655s] writing dependency_links to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/dependency_links.txt
+[9.657s] writing entry points to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/entry_points.txt
+[9.659s] writing requirements to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/requires.txt
+[9.663s] writing top-level names to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/top_level.txt
+[10.070s] reading manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[10.108s] writing manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[10.118s] running build
+[10.134s] running build_py
+[10.172s] running install
+[10.178s] running install_lib
+[10.186s] byte-compiling /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py/demo2.py to demo2.cpython-36.pyc
+[10.188s] running install_data
+[10.194s] running install_egg_info
+[10.208s] removing '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info' (and everything under it)
+[10.211s] Copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info
+[10.222s] running install_scripts
+[10.372s] Installing demo script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[10.373s] Installing demo1 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[10.375s] writing list of installed files to '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log'

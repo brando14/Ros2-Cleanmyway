@@ -1,0 +1,25 @@
+[8.733s] running egg_info
+[8.739s] writing /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/PKG-INFO
+[8.743s] writing dependency_links to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/dependency_links.txt
+[8.744s] writing entry points to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/entry_points.txt
+[8.745s] writing requirements to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/requires.txt
+[8.745s] writing top-level names to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/top_level.txt
+[9.006s] reading manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[9.009s] writing manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[9.010s] running build
+[9.010s] running build_py
+[9.012s] copying demo_py/demo2 .py -> /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build/lib/demo_py
+[9.012s] running install
+[9.013s] running install_lib
+[9.016s] copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build/lib/demo_py/demo2 .py -> /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py
+[9.017s] byte-compiling /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py/demo2.py to demo2.cpython-36.pyc
+[9.018s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (demo2.py, line 85)
+[9.019s] byte-compiling /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py/demo2 .py to demo2 .cpython-36.pyc
+[9.020s] running install_data
+[9.032s] running install_egg_info
+[9.101s] removing '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info' (and everything under it)
+[9.102s] Copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info
+[9.102s] running install_scripts
+[9.248s] Installing demo script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[9.249s] Installing demo1 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[9.250s] writing list of installed files to '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log'

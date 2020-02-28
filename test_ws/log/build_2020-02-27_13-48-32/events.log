@@ -1,0 +1,91 @@
+[0.000000] (-) TimerEvent: {}
+[0.002631] (demo_py) JobQueued: {'identifier': 'demo_py', 'dependencies': OrderedDict()}
+[0.002876] (demo_py) JobStarted: {'identifier': 'demo_py'}
+[0.096984] (-) TimerEvent: {}
+[0.218187] (-) TimerEvent: {}
+[0.321594] (-) TimerEvent: {}
+[0.431166] (-) TimerEvent: {}
+[0.531750] (-) TimerEvent: {}
+[0.632798] (-) TimerEvent: {}
+[0.733319] (-) TimerEvent: {}
+[0.837769] (-) TimerEvent: {}
+[0.941466] (-) TimerEvent: {}
+[1.044830] (-) TimerEvent: {}
+[1.145723] (-) TimerEvent: {}
+[1.251306] (-) TimerEvent: {}
+[1.359308] (-) TimerEvent: {}
+[1.460517] (-) TimerEvent: {}
+[1.561351] (-) TimerEvent: {}
+[1.662511] (-) TimerEvent: {}
+[1.764062] (-) TimerEvent: {}
+[1.865057] (-) TimerEvent: {}
+[1.966965] (-) TimerEvent: {}
+[2.068812] (-) TimerEvent: {}
+[2.169954] (-) TimerEvent: {}
+[2.271760] (-) TimerEvent: {}
+[2.378296] (-) TimerEvent: {}
+[2.484653] (-) TimerEvent: {}
+[2.585809] (-) TimerEvent: {}
+[2.688639] (-) TimerEvent: {}
+[2.791272] (-) TimerEvent: {}
+[2.891815] (-) TimerEvent: {}
+[2.992766] (-) TimerEvent: {}
+[3.093953] (-) TimerEvent: {}
+[3.195887] (-) TimerEvent: {}
+[3.296927] (-) TimerEvent: {}
+[3.400320] (-) TimerEvent: {}
+[3.502464] (-) TimerEvent: {}
+[3.603569] (-) TimerEvent: {}
+[3.704558] (-) TimerEvent: {}
+[3.805253] (-) TimerEvent: {}
+[3.907623] (-) TimerEvent: {}
+[4.009509] (-) TimerEvent: {}
+[4.072355] (demo_py) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py', 'build', '--build-base', '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build', 'install', '--prefix', '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py', '--record', '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log', '--single-version-externally-managed'], 'cwd': '/home/training/Ros2-Cleanmyway/test_ws/src/demo_py', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'training', 'LC_TIME': 'es_VE.UTF-8', 'TEXTDOMAIN': 'im-config', 'OSPL_INFOFILE': '<stdout>', 'XDG_SEAT': 'seat0', 'SSH_AGENT_PID': '5697', 'XDG_SESSION_TYPE': 'x11', 'ROS_PACKAGE_PATH': '/opt/ros/melodic/share', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-9/plugins:/opt/ros/dashing/opt/yaml_cpp_vendor/lib:/opt/ros/dashing/opt/rviz_ogre_vendor/lib:/usr/lib:/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0:/opt/ros/dashing/lib:/opt/ros/melodic/lib', 'ROS_ETC_DIR': '/opt/ros/melodic/etc/ros', 'SHLVL': '1', 'OSPL_URI': 'file:///opt/ros/dashing/share/opensplice_cmake_module/config/ros_ospl.xml', 'QT4_IM_MODULE': 'xim', 'HOME': '/home/training', 'OLDPWD': '/home/training', 'DESKTOP_SESSION': 'ubuntu', 'GIO_LAUNCHED_DESKTOP_FILE': '/etc/xdg/autostart/org.gnome.SettingsDaemon.MediaKeys.desktop', 'OSPL_VERBOSITY': '2', 'NDDSHOME': '/opt/rti.com/rti_connext_dds-5.3.1', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'ROS_PYTHON_VERSION': '3', 'LC_MONETARY': 'es_VE.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'OSPL_TMPL_PATH': '/usr/etc/opensplice/idlpp', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '5901', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator20x1a6021154d881c', 'IM_CONFIG_PHASE': '2', 'ROS_DISTRO': 'dashing', 'LOGNAME': 'training', 'GTK_IM_MODULE': 'ibus', 'DESKTOP_AUTOSTART_ID': '10f10100e5d3acc0bf158282557873803700000056020007', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'PKG_CONFIG_PATH': '/opt/ros/melodic/lib/pkgconfig', 'USERNAME': 'training', 'XDG_SESSION_ID': '2', 'TERM': 'xterm-256color', 'OSPL_ERRORFILE': '<stderr>', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'WINDOWPATH': '2', 'PATH': '/opt/rti.com/rti_connext_dds-5.3.1/lib/x64Linux3gcc5.4.0:/opt/rti.com/rti_connext_dds-5.3.1/bin:/opt/ros/dashing/bin:/opt/ros/melodic/bin:/home/training/.local/bin:/home/training/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/training-ThinkPad-T420:@/tmp/.ICE-unix/5602,unix/training-ThinkPad-T420:/tmp/.ICE-unix/5602', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'es_VE.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'OSPL_HOME': '/usr', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'es_VE.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_SESSION_DESKTOP': 'ubuntu', 'ROS_ROOT': '/opt/ros/melodic/share/ros', 'XMODIFIERS': '@im=ibus', 'ROSLISP_PACKAGE_DIRECTORIES': '', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'AMENT_PREFIX_PATH': '/opt/ros/dashing', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'TERMINATOR_UUID': 'urn:uuid:72bac224-a07b-487a-bf32-f2c74a486868', 'LC_NAME': 'es_VE.UTF-8', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'ROS_MASTER_URI': 'http://localhost:11311', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_VE.UTF-8', 'TEXTDOMAINDIR': '/usr/share/locale/', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'LC_IDENTIFICATION': 'es_VE.UTF-8', 'XDG_VTNR': '2', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py', 'CLUTTER_IM_MODULE': 'xim', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'LC_NUMERIC': 'es_VE.UTF-8', 'PYTHONPATH': '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages:/opt/ros/dashing/lib/python3.6/site-packages:/opt/ros/melodic/lib/python2.7/dist-packages', 'LC_PAPER': 'es_VE.UTF-8', 'VTE_VERSION': '5202', 'CMAKE_PREFIX_PATH': '/opt/ros/melodic'}, 'shell': False}
+[4.109956] (-) TimerEvent: {}
+[4.217175] (-) TimerEvent: {}
+[4.318894] (-) TimerEvent: {}
+[4.419487] (-) TimerEvent: {}
+[4.523198] (-) TimerEvent: {}
+[4.624838] (-) TimerEvent: {}
+[4.727258] (-) TimerEvent: {}
+[4.828479] (-) TimerEvent: {}
+[4.929369] (-) TimerEvent: {}
+[5.041475] (-) TimerEvent: {}
+[5.143748] (-) TimerEvent: {}
+[5.244686] (-) TimerEvent: {}
+[5.345430] (-) TimerEvent: {}
+[5.447889] (-) TimerEvent: {}
+[5.548838] (-) TimerEvent: {}
+[5.651491] (-) TimerEvent: {}
+[5.754252] (-) TimerEvent: {}
+[5.822280] (demo_py) StdoutLine: {'line': b'running egg_info\n'}
+[5.828638] (demo_py) StdoutLine: {'line': b'writing /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/PKG-INFO\n'}
+[5.839619] (demo_py) StdoutLine: {'line': b'writing dependency_links to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/dependency_links.txt\n'}
+[5.840140] (demo_py) StdoutLine: {'line': b'writing entry points to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/entry_points.txt\n'}
+[5.840761] (demo_py) StdoutLine: {'line': b'writing requirements to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/requires.txt\n'}
+[5.841216] (demo_py) StdoutLine: {'line': b'writing top-level names to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/top_level.txt\n'}
+[5.854682] (-) TimerEvent: {}
+[5.956379] (-) TimerEvent: {}
+[6.063904] (-) TimerEvent: {}
+[6.096052] (demo_py) StdoutLine: {'line': b"reading manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'\n"}
+[6.106197] (demo_py) StdoutLine: {'line': b"writing manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'\n"}
+[6.109098] (demo_py) StdoutLine: {'line': b'running build\n'}
+[6.110045] (demo_py) StdoutLine: {'line': b'running build_py\n'}
+[6.113116] (demo_py) StdoutLine: {'line': b'running install\n'}
+[6.119726] (demo_py) StdoutLine: {'line': b'running install_lib\n'}
+[6.125611] (demo_py) StdoutLine: {'line': b'running install_data\n'}
+[6.135679] (demo_py) StdoutLine: {'line': b'running install_egg_info\n'}
+[6.148483] (demo_py) StdoutLine: {'line': b"removing '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info' (and everything under it)\n"}
+[6.151287] (demo_py) StdoutLine: {'line': b'Copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info\n'}
+[6.155766] (demo_py) StdoutLine: {'line': b'running install_scripts\n'}
+[6.164017] (-) TimerEvent: {}
+[6.265306] (-) TimerEvent: {}
+[6.294677] (demo_py) StdoutLine: {'line': b'Installing demo script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py\n'}
+[6.296237] (demo_py) StdoutLine: {'line': b'Installing demo1 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py\n'}
+[6.297155] (demo_py) StdoutLine: {'line': b"writing list of installed files to '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log'\n"}
+[6.365592] (-) TimerEvent: {}
+[6.424081] (demo_py) CommandEnded: {'returncode': 0}
+[6.465898] (-) TimerEvent: {}
+[6.567003] (-) TimerEvent: {}
+[6.616354] (demo_py) JobEnded: {'identifier': 'demo_py', 'rc': 0}
+[6.626466] (-) EventReactorShutdown: {}

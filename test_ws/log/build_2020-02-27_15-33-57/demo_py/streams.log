@@ -1,0 +1,23 @@
+[36.728s] Invoking command in '/home/training/Ros2-Cleanmyway/test_ws/src/demo_py': PYTHONPATH=/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/training/Ros2-Cleanmyway/test_ws/build/demo_py build --build-base /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build install --prefix /home/training/Ros2-Cleanmyway/test_ws/install/demo_py --record /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log --single-version-externally-managed
+[50.799s] running egg_info
+[50.811s] writing /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/PKG-INFO
+[50.823s] writing dependency_links to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/dependency_links.txt
+[50.824s] writing entry points to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/entry_points.txt
+[50.824s] writing requirements to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/requires.txt
+[50.824s] writing top-level names to /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/top_level.txt
+[52.789s] reading manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[52.812s] writing manifest file '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info/SOURCES.txt'
+[52.813s] running build
+[52.813s] running build_py
+[52.893s] running install
+[52.974s] running install_lib
+[53.203s] running install_data
+[53.265s] running install_egg_info
+[53.452s] removing '/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info' (and everything under it)
+[53.455s] Copying /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/demo_py.egg-info to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages/demo_py-0.0.0-py3.6.egg-info
+[53.463s] running install_scripts
+[54.314s] Installing demo script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[54.318s] Installing demo1 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[54.319s] Installing demo2 script to /home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/demo_py
+[54.324s] writing list of installed files to '/home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log'
+[54.922s] Invoked command in '/home/training/Ros2-Cleanmyway/test_ws/src/demo_py' returned '0': PYTHONPATH=/home/training/Ros2-Cleanmyway/test_ws/install/demo_py/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /home/training/Ros2-Cleanmyway/test_ws/build/demo_py build --build-base /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/build install --prefix /home/training/Ros2-Cleanmyway/test_ws/install/demo_py --record /home/training/Ros2-Cleanmyway/test_ws/build/demo_py/install.log --single-version-externally-managed
